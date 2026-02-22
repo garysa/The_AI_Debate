@@ -15,6 +15,7 @@ All analysis current as of **February 2026**.
 | [nvidia_stock_analysis.md](nvidia_stock_analysis.md) | Nvidia's stock exposure and the Feb 25 2026 earnings crossroads |
 | [oracle_correction_options.md](oracle_correction_options.md) | What Oracle can realistically do to correct its data centre mistake |
 | [michael_burry_short.md](michael_burry_short.md) | Michael Burry's Oracle/AI bubble short thesis and performance |
+| [openai_future.md](openai_future.md) | OpenAI's likely future: investors, Microsoft absorption, and Altman's position |
 
 ---
 
