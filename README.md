@@ -19,6 +19,7 @@ All analysis current as of **February 2026**.
 | [softbank_openai_risk.md](softbank_openai_risk.md) | SoftBank's leveraged ARM/OpenAI bet and the margin call death spiral risk |
 | [narrow_ai_specialist_models.md](narrow_ai_specialist_models.md) | The return of narrow AI: specialist models beating general LLMs, coding as proof of concept |
 | [us_economy_ai_impact.md](us_economy_ai_impact.md) | What the AI bubble means for the US economy: GDP dependence, job displacement, debt contagion |
+| [china_ai_strategy.md](china_ai_strategy.md) | China's strategic response: DeepSeek, chip independence, Global South influence, and the sanctions backfire |
 
 ---
 
