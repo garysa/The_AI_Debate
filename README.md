@@ -16,6 +16,7 @@ All analysis current as of **February 2026**.
 | [oracle_correction_options.md](oracle_correction_options.md) | What Oracle can realistically do to correct its data centre mistake |
 | [michael_burry_short.md](michael_burry_short.md) | Michael Burry's Oracle/AI bubble short thesis and performance |
 | [openai_future.md](openai_future.md) | OpenAI's likely future: investors, Microsoft absorption, and Altman's position |
+| [softbank_openai_risk.md](softbank_openai_risk.md) | SoftBank's leveraged ARM/OpenAI bet and the margin call death spiral risk |
 
 ---
 
